@@ -33,8 +33,8 @@ app.get('/about', (req, res) => {
 
 app.get('/help', (req, res) => {
   res.render('help', {
-    title: 'Help',
     helpText: 'This is some helpful text.',
+    title: 'Help',
     name: 'Maxim Stovba',
   })
 })
@@ -57,7 +57,7 @@ app.get('/help/*', (req, res) => {
 app.get('*', (req, res) => {
   res.render('404', {
     title: '404',
-    name: 'Maxim Stovba',
+    name: 'Andrew Mead',
     errorMessage: 'Page not found.',
   })
 })
