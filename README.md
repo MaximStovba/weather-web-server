@@ -1,8 +1,8 @@
 ### weather-web-server
 
-This site was created for fun. It uses data from mapbox.com and weatherstack.com!
+🌱 This site was created for fun. It uses data from mapbox.com and weatherstack.com!
 
-# Stack:
+# 🛠️ Stack:
 
 - Node.js
 - Express.js
