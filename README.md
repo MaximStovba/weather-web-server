@@ -1,6 +1,6 @@
 ### weather-web-server
 
-# Weather app with routing
+This site was created for fun. It uses data from mapbox.com and weatherstack.com!
 
 # Stack:
 
